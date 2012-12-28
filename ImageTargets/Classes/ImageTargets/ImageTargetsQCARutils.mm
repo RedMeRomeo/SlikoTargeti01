@@ -9,7 +9,7 @@
 @implementation ImageTargetsQCARutils
 @synthesize deviceOrientationLock;
 
-// return QCARutils singleton, initing if necessary //antemind comment
+// return QCARutils singleton, initing if necessary //antemind comment01
 + (ImageTargetsQCARutils *) getInstance
 {
     if (qUtils == nil)
